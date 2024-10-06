@@ -1,7 +1,7 @@
-# development-base-concepts
+# development-concepts
 *Please Remember that this is a hobby project and done in the free time*
 
-Base Concepts for development.  
+Concepts for development.  
 Organized by concept and year to keep up with framework evolution.
 
 The belonging Videos can be found here:  
