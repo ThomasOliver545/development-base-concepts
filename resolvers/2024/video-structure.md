@@ -1,6 +1,6 @@
 # Resolvers Example in Angular 18
 
-Video Link: <will be added after upload>
+Video Link: https://www.youtube.com/watch?v=9_CiaQSn6gI&ab_channel=TommiCodes
 
 ## Prerequisites:
 - NodeJS
