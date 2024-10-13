@@ -1,4 +1,5 @@
 List of ideas of upcoming videos/concepts (alphabetical order):
+- git workflows (git flow)
 - IDE's
 - interceptors
 - in-memory-database, for local development

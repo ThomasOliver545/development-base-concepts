@@ -1,0 +1,15 @@
+<!-- using new template syntax (template control flow) -->
+@if(users.length > 0) {
+  <div>
+    <h3>User List</h3>
+    <ul>
+      @for(user of users; track user.id) {
+        <li>{{user.name}}</li>
+      }
+    </ul>
+  </div>
+} @else {
+  <div>
+    <h3>No users found.</h3>
+  </div>
+}
