@@ -1,6 +1,6 @@
 # Resolvers Example in Angular 18
 
-Video Link: 
+Video Link: <will be added after upload>
 
 ## Prerequisites:
 - NodeJS
@@ -14,7 +14,7 @@ It should prefetch data before navigating to a route and it should also display 
 
 ## Acceptance Criteria:
 1. Angular Setup
-2. Angular Frontend and NestJS Backend should be started via one script, but can also be started separately
+2. Angular Frontend and NestJS Backend should be started separately
 3. Angular resolver should be executed before hitting a route and fetch data from the backend via a service
 4. While our resolver/service is fetching the data from the backend a loading spinner should be displayed
-5. 
+

@@ -1,7 +1,7 @@
 # Concept of Resolvers
 
 Resolvers are primarly used to handle logic that should be executed before navigating to a route.
-Resovlers can be used in Frameworks like Angular.
+Resolvers can be used in Frameworks like Angular.
 They are mostly used for pre-fetching Data from a backend before accessing a route.
 
 ## Advantages 
